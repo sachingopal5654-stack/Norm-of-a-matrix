@@ -7,14 +7,14 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ## Algorithm:
 ## Algorithm:
 
-**1. 1-Norm of a Matrix**
+**1. Norm of a Matrix**
 
 1. Import the NumPy library and read the input matrix using `np.array()`.
 2. Calculate the 1-norm of the matrix using `np.linalg.norm(A, 1)`.
 3. Format the calculated norm to two decimal places using string formatting.
 4. Display the 1-norm of the matrix.
 
-**2. 2-Norm of a Matrix**
+**2. Norm of a Matrix**
 
 1. Import the NumPy library and read the input matrix using `np.array()`.
 2. Calculate the 2-norm of the matrix using `np.linalg.norm(a, 2)`.
